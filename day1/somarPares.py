@@ -1,14 +1,12 @@
 
 i=0
+soma = 0
 arrayNumeros = []
 resultado = []
 for i in range(4):
     num = int(input("Digite um número: "))
     arrayNumeros.append(num)
+    if num %2 == 0:
+        soma += num
 
-j = 0
-for j in arrayNumeros:
-    if j % 2 == 0:
-        resultado.append(j)
-
-print(resultado)
+print(f"A soma de todos os números pares digitados foi: {soma}")

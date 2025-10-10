@@ -10,8 +10,9 @@ aos estudos mais avançados que realizo em outros projetos.
 
 ---
 
-| Dia | Título do Desafio | Linguagem usada  | Status | Tempo gasto | Observações |
-| --- | ----------------- | ---------------- | ------ | ----------- | ----------- |
-| 1   | Soma de Pares     | Python, Java, TS | Feito  | -------     |             |
+| Dia | Título do Desafio  | Linguagem usada  | Status | Observações |
+| --- | ------------------ | ---------------- | ------ | ----------- |
+| 1   | Soma de Pares      | Python, Java, TS | Feito  | ----------- |
+| 2   | Contador de Vogais | Python           | Feito  | ----------- |
 
 ---

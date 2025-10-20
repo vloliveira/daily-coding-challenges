@@ -14,5 +14,6 @@ aos estudos mais avançados que realizo em outros projetos.
 | --- | ------------------ | ---------------- | ------ | ----------- |
 | 1   | Soma de Pares      | Python, Java, TS | Feito  | ----------- |
 | 2   | Contador de Vogais | Python           | Feito  | ----------- |
+| 3   | Números primos     | Python           | Feito  | ----------- |
 
 ---

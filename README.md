@@ -17,5 +17,6 @@ aos estudos mais avançados que realizo em outros projetos.
 | 3   | Maior e menor      | TS               | Feito  | ----------- |
 | 4   | Números primos     | Python           | Feito  | ----------- |
 | 5   | Remover duplicata  | TS, Python       | Feito  | ----------- |
+| 6   | Verificar idade    | Java             | Feito  | ----------- |
 
 ---

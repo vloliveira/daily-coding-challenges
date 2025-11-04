@@ -1,8 +1,6 @@
 # 🧩 Daily Coding Challenges — Vitor Oliveira
 
-**Início:** 08/10/2025  
-**Linguagens:** TypeScript, Java e Python  
-**Meta:** 1 desafio por dia
+**Linguagens:** TypeScript, Java e Python
 
 **Objetivo:** O objetivo é exercitar lógica de programação nas minhas principais linguagens estudadas.
 Para manter a constância nos estudos de programação através de exercícios básicos de lógica em paralelo
